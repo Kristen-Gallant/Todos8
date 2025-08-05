@@ -96,7 +96,10 @@
 * A DELETE request is made to the backend, removing the task and updating the list in real time.
 
 
-<img src="https://github.com/Kristen-Gallant/ON-Quiz-Compose/blob/master/quizfirst.png" alt="Alt Text" width="300" />
+<img src="https://raw.githubusercontent.com/Kristen-Gallant/Todos8/master/homePage.png" alt="Alt Text" width="300" /> <img src="https://raw.githubusercontent.com/Kristen-Gallant/Todos8/master/onBoarding.png" alt="Alt Text" width="300" />
+
+<img src="https://raw.githubusercontent.com/Kristen-Gallant/Todos8/master/splashScreen.png" alt="Alt Text" width="300" /> <img src="https://raw.githubusercontent.com/Kristen-Gallant/Todos8/master/updateTodo.png" alt="Alt Text" width="300" />
+
 
 
 <a href="https://youtu.be/zogbelBjTe8">
@@ -104,14 +107,14 @@
 </a>
 
 
+
+
+
 <a href="https://youtube.com/shorts/BA5_XK6ZoRQ?feature=share">
   <img src="https://img.youtube.com/vi/BA5_XK6ZoRQ/maxresdefault.jpg" alt="Video Title" width="500" />
 </a>
 
 
-
-
-<img src="https://github.com/Kristen-Gallant/ON-Quiz-Compose/blob/master/quizfirst.png" alt="Alt Text" width="300" />
 
 
 
