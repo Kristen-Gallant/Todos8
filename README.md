@@ -1,6 +1,5 @@
 # Todos 8 – Android Todo List App
 
-## ANDROID APP MADE IN COMPOSE
 
 # Todos 8 is a modern, minimalistic, and high-performing Todo List application built with Jetpack Compose and powered by MockAPI for backend operations. This app is designed to demonstrate seamless integration of CRUD (Create, Read, Update, Delete, Patch) operations using Retrofit and Moshi, all managed under the MVVM (Model-View-ViewModel) architecture for clean, scalable, and maintainable code.
 
